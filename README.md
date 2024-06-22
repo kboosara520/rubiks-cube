@@ -31,8 +31,8 @@ The face turns are done in a clockwise direction. To turn the faces counterclock
 
 The following keys rotate the cube:
 - `⬆` and `⬇` rotate the cube around the X axis.
-- `⬅` and `➡` rotate the cube around the Y axis.
-- `Shift` + `⬅` and `Shift` + `➡` rotate the cube around the Z axis.
+- `⬅` and `➡️` rotate the cube around the Y axis.
+- `Shift` + `⬅` and `Shift` + `➡️` rotate the cube around the Z axis.
 
 To scramble the cube, press `Command` + `s`.
 
