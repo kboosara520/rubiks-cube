@@ -1,0 +1,5 @@
+.vscode/
+.DS_Store
+build/*.o
+build/rubiks
+src/glad.c
