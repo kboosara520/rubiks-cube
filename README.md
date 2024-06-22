@@ -5,6 +5,7 @@ This project uses OpenGL 4.1 and was written in C++.
 - glfw (Download from [this page](https://www.glfw.org))
 - glad (Download from [this page](https://glad.dav1d.de). Select core profile and check the "Generate a loader" option. After downloading, move glad.c into the src directory)
 - glm (Download from [this page](https://github.com/g-truc/glm/tags))
+
 Please edit the installation paths in Makefile as well.
 
 ## Camera mode
