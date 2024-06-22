@@ -30,52 +30,6 @@ glm::vec3 cameraUp = glm::vec3(0.0f, 1.0f, 0.0f);
 bool cameraMode = true;
 bool outOfFocus = false;
 
-// glm::vec3 light_pos = glm::vec3(7.0f, 0.0f, -11.0f);
-
-float lightVertices[] = {
-        -0.5f, -0.5f, -0.5f, 
-         0.5f, -0.5f, -0.5f,  
-         0.5f,  0.5f, -0.5f,  
-         0.5f,  0.5f, -0.5f,  
-        -0.5f,  0.5f, -0.5f, 
-        -0.5f, -0.5f, -0.5f, 
-
-        -0.5f, -0.5f,  0.5f, 
-         0.5f, -0.5f,  0.5f,  
-         0.5f,  0.5f,  0.5f,  
-         0.5f,  0.5f,  0.5f,  
-        -0.5f,  0.5f,  0.5f, 
-        -0.5f, -0.5f,  0.5f, 
-
-        -0.5f,  0.5f,  0.5f, 
-        -0.5f,  0.5f, -0.5f, 
-        -0.5f, -0.5f, -0.5f, 
-        -0.5f, -0.5f, -0.5f, 
-        -0.5f, -0.5f,  0.5f, 
-        -0.5f,  0.5f,  0.5f, 
-
-         0.5f,  0.5f,  0.5f,  
-         0.5f,  0.5f, -0.5f,  
-         0.5f, -0.5f, -0.5f,  
-         0.5f, -0.5f, -0.5f,  
-         0.5f, -0.5f,  0.5f,  
-         0.5f,  0.5f,  0.5f,  
-
-        -0.5f, -0.5f, -0.5f, 
-         0.5f, -0.5f, -0.5f,  
-         0.5f, -0.5f,  0.5f,  
-         0.5f, -0.5f,  0.5f,  
-        -0.5f, -0.5f,  0.5f, 
-        -0.5f, -0.5f, -0.5f, 
-
-        -0.5f,  0.5f, -0.5f, 
-         0.5f,  0.5f, -0.5f,  
-         0.5f,  0.5f,  0.5f,  
-         0.5f,  0.5f,  0.5f,  
-        -0.5f,  0.5f,  0.5f, 
-        -0.5f,  0.5f, -0.5f, 
-    };
-
 GLFWwindow* createWindow();
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void key_callback(GLFWwindow* window, int key, int scancode, int action, int mods);

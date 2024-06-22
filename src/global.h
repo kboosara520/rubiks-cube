@@ -85,6 +85,7 @@ extern const glm::vec3 YELLOW;
 extern const glm::vec3 ORANGE;
 
 extern const float vertices[6][36];
+extern const float lightVertices[108];
 extern unsigned int indices[6];
 
 extern unsigned int VAO[6], VBO[6];
