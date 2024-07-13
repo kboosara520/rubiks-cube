@@ -48,4 +48,4 @@ make run
 
 ## Notes
 - If the cube is rendered on the bottom left of the screen, go into fullscreen mode and exit fullscreen mode to fix it.
-- This project was inspired by Daniel Jackson's [Rubik's cube](https://www.youtube.com/watch?v=2DD-EOMdhX0&pp=ygUTcnViaWsncyBjdWJlIG9wZW5nbA%3D%3D), but the source code was written entirely by myself.
+- This project was inspired by Daniel Jackson's [Rubik's cube](https://www.youtube.com/watch?v=2DD-EOMdhX0&pp=ygUTcnViaWsncyBjdWJlIG9wZW5nbA%3D%3D)
